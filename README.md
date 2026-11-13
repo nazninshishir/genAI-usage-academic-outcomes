@@ -24,7 +24,7 @@ Explores student academic performance and its relationship with GenAI usage.
 - Burnout risk distribution
 
 
-[View Interactive Dashboard](https://public.tableau.com/views/GenAIUsageandAcademicOutcomes/GenerativeAIUsageandAcademicOutcomes?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View Interactive Dashboard](https://public.tableau.com/views/GenAIUsageandAcademicOutcomes/GenerativeAIUsageandAcademicOutcomes?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Dashboard 2: GPA and Burnout Analysis
 
@@ -36,8 +36,6 @@ Examines how GenAI usage relates to student GPA and potential burnout.
 - GPA changes by GenAI use-case group
 - GenAI usage and post-semester GPA
 - Student burnout risk
-
-![Dashboard 2](screenshots/dashboard-2.png)
 
 [View Interactive Dashboard](https://public.tableau.com/views/HowGenAIUseRelatestoStudentGPAandBurnout/HowGenAIUseRelatestoStudentGPAandBurnout?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
